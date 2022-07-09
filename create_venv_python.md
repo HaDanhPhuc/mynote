@@ -4,7 +4,7 @@ python -m venv venv
 ```
 ## Đi tới venv 
 ```
-  source./venv/Scripts/actiavte
+./venv/Scripts/actiavte
  ```
 # Export file requirements.txt
 ```
